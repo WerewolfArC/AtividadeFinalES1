@@ -20,6 +20,6 @@ function mult(){
     console.log(`${Y} x ${X} = ${B.toFixed(2)}`)
 }
 
-function div(){
-    //TODO: Implementar divisão
+function div(dividendo = new Number, divisor = new Number){
+    return dividendo/divisor
 }
