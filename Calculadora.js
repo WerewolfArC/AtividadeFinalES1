@@ -1,3 +1,5 @@
+var prompt = require('prompt-sync')();
+
 function sum(){
     //TODO: Implementar soma
 }
