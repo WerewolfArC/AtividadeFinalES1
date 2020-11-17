@@ -6,8 +6,8 @@ function sum(){
     let A = X+Y
     let B = Y+X
 
-    console.log(`${X} x ${Y} = ${A.toFixed(2)}`)
-    console.log(`${Y} x ${X} = ${B.toFixed(2)}`)
+    console.log(`${X} + ${Y} = ${A.toFixed(2)}`)
+    console.log(`${Y} + ${X} = ${B.toFixed(2)}`)
 }
 
 function sub(){
